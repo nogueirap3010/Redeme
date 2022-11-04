@@ -1,5 +1,8 @@
 # Redeme
-Projeto do goodwaste
+Project goodwaste
+
+Video Demo:https://www.youtube.com/watch?v=nN9EIQLWanQ
+
 # Goodwaste
 
 Goodwaste foi concebido para o descarte inteligente de materiais para o do Curso CS50 .
@@ -45,7 +48,7 @@ Papéis engordurados, fraldas e bitucas de cigarro;
 Espelho, louças e embalagens metalizadas.
 ## Demonstração
 
-https://gwaste.herokuapp.com/pt/
+http://www.goodwaste.com.br/pt/
 ## Funcionalidades
 
 - Localização de pontos de coleta com Google Maps
@@ -98,7 +101,7 @@ Inicie o servidor
 - [Reinaldo Santos](https://www.linkedin.com/in/e-payments/)
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de reciclar@goodwaste.com.br
+Se você tiver algum feedback, por favor nos deixe saber por meio de paulo.nogueira@lyra.com
 
 
 ![Logo](https://gwaste.herokuapp.com/static/files/images/logo_goodwaste.png)
@@ -107,3 +110,6 @@ Se você tiver algum feedback, por favor nos deixe saber por meio de reciclar@go
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+submit50 cs50/problems/2021/x/project
